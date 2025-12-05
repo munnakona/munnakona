@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Munaiah Kona 👋</h1>
+<h3 align="center">DevOps Engineer | GenAI Developer | Agentic AI Systems Architect</h3>
 
-<!--
-**munnakona/munnakona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 I design scalable cloud architectures, automate DevOps workflows, and build intelligent agentic systems powered by modern LLMs.  
+💡 I specialize in combining DevOps reliability with cutting-edge GenAI engineering to create robust, real-world AI automation.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 About Me
+
+- 🛠️ **DevOps Engineer** — CI/CD, IaC, automation, infra design  
+- 🤖 **GenAI Developer** — LLM apps, workflow orchestration, RAG  
+- 🧠 **Agentic AI Systems Architect** — multi-agent frameworks & autonomous systems  
+- 🌩️ Cloud-native engineering across **AWS, GCP & Azure**  
+- 🚀 Currently building **MCP servers, intelligent AI agents, and end-to-end AI systems**
+
+---
+
+## 🧰 Tech Stack
+
+### ⚙️ DevOps / Cloud
