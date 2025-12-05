@@ -81,5 +81,7 @@ Experimental MCP (Model Context Protocol) servers in Python for Gen AI & Agentic
 ---
 
 ## 🧩 Fun Fact
+
+I love transforming complex systems into automated, intelligent pipelines — whether in DevOps or GenAI.
 I love turning complex systems into highly automated, intelligent pipelines — whether it's DevOps or GenAI.
 
