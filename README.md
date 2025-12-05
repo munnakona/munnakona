@@ -49,10 +49,9 @@ Postman • VS Code
 *(Auto-showing all public repositories on your profile)*  
 I use GitHub as my engineering portfolio — showcasing DevOps, GenAI, and Agentic AI projects.
 
-> 📌 *Tip: Pin your top 4–6 repos on your GitHub profile for maximum visibility.*
+🔹 QT-GentAI-MCP
 
-If you'd like, I can generate **professional descriptions for each repo** — just say:  
-**“Generate repo descriptions.”**
+Experimental MCP (Model Context Protocol) servers in Python for Gen AI & Agentic AI integration. Includes simple callable tools and a lightweight calculator to prototype AI-agent workflows.
 
 ---
 
